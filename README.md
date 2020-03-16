@@ -11,8 +11,6 @@ Guide to install Chinese input with ibus in Ubuntu
 
 <1> Change ***"Keyboard input method system"*** to **`IBus`**
 
-Tips: Log out and re-login after change
-
 <2> Enter ***"Install/Remove Languages...."***
 
 <3> Install ***"Chinese (simplified)"***
@@ -25,7 +23,9 @@ Tips: Log out and re-login after change
 
 <5> Add ***"Chinese (Intelligent Pinyin)"*** and Remove all others **Input Sources**
 
-<6> (Optional) Configure Input Preference
+<6> **`reboot`** system
+
+<7> (Optional) Configure Input Preference
 
 Tips: convert Chinese between **`Simplified`** and **`Traditional`**
 
