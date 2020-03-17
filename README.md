@@ -27,6 +27,6 @@ Guide to install Chinese input with ibus in Ubuntu
 
 <7> (Optional) Configure Input Preference
 
-Tips: convert Chinese between **`Simplified`** and **`Traditional`**
+Tips: Use **`Ctrl+Shift+f`** to convert Chinese between **`Simplified`** and **`Traditional`**
 
 <img src="Preferences.png" />
